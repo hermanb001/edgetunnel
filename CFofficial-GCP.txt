@@ -1,0 +1,10 @@
+developers.cloudflare.com#GCP-CF-A
+portal.cloudflarepartners.com#GCP-CF-B
+ns.cloudflare.com#GCP-CF-C
+support.cloudflare.com#GCP-CF-D
+workers.cloudflare.com#GCP-CF-E
+abuse.cloudflare.com#GCP-CF-F
+ai.cloudflare.com#GCP-CF-G
+blog.cloudflare.com#GCP-CF-H
+challenge.developers.cloudflare.com#GCP-CF-I
+community.cloudflare.com#GCP-CF-J
