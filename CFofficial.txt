@@ -1,6 +1,6 @@
 developers.cloudflare.com#CF-A
 portal.cloudflarepartners.com#CF-B
-ns.cloudflare.com#CF-C
+pages.cloudflare.com#CF-C
 support.cloudflare.com#CF-D
 workers.cloudflare.com#CF-E
 abuse.cloudflare.com#CF-F
