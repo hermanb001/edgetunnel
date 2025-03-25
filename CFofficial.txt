@@ -3,7 +3,7 @@ portal.cloudflarepartners.com#CF-B
 pages.cloudflare.com#CF-C
 support.cloudflare.com#CF-D
 workers.cloudflare.com#CF-E
-abuse.cloudflare.com#CF-F
+try.cloudflare.com#CF-F
 ai.cloudflare.com#CF-G
 blog.cloudflare.com#CF-H
 challenge.developers.cloudflare.com#CF-I
