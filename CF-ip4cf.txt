@@ -1,0 +1,10 @@
+ip01.afreeworld.eu.org#GCP-IP01
+ip02.afreeworld.eu.org#GCP-IP02
+ip03.afreeworld.eu.org#GCP-IP03
+ip04.afreeworld.eu.org#GCP-IP04
+ip05.afreeworld.eu.org#GCP-IP05
+ip06.afreeworld.eu.org#GCP-IP06
+ip07.afreeworld.eu.org#GCP-IP07
+ip08.afreeworld.eu.org#GCP-IP08
+ip09.afreeworld.eu.org#GCP-IP09
+ip10.afreeworld.eu.org#GCP-IP10
