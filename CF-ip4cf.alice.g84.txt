@@ -1,0 +1,10 @@
+ip01.g84.dpdns.org#GCP-IP01
+ip02.g84.dpdns.org#GCP-IP02
+ip03.g84.dpdns.org#GCP-IP03
+ip04.g84.dpdns.org#GCP-IP04
+ip05.g84.dpdns.org#GCP-IP05
+ip06.g84.dpdns.org#GCP-IP06
+ip07.g84.dpdns.org#GCP-IP07
+ip08.g84.dpdns.org#GCP-IP08
+ip09.g84.dpdns.org#GCP-IP09
+ip10.g84.dpdns.org#GCP-IP10
