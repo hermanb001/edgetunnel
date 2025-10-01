@@ -1,0 +1,10 @@
+ip01.dot8.dpdns.org#GCP-IP01
+ip02.dot8.dpdns.org#GCP-IP02
+ip03.dot8.dpdns.org#GCP-IP03
+ip04.dot8.dpdns.org#GCP-IP04
+ip05.dot8.dpdns.org#GCP-IP05
+ip06.dot8.dpdns.org#GCP-IP06
+ip07.dot8.dpdns.org#GCP-IP07
+ip08.dot8.dpdns.org#GCP-IP08
+ip09.dot8.dpdns.org#GCP-IP09
+ip10.dot8.dpdns.org#GCP-IP10
