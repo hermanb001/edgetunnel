@@ -6,5 +6,5 @@ workers.cloudflare.com#CF-E
 abuse.cloudflare.com#CF-F
 ai.cloudflare.com#CF-G
 blog.cloudflare.com#CF-H
-challenge.developers.cloudflare.com#CF-I
+partners.cloudflare.com#CF-I
 community.cloudflare.com#CF-J
