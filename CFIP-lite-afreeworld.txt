@@ -1,0 +1,15 @@
+developers.cloudflare.com#CF-L01
+portal.cloudflarepartners.com#CF-L02
+pages.cloudflare.com#CF-L03
+support.cloudflare.com#CF-L04
+workers.cloudflare.com#CF-L05
+ip01.afreeworld.eu.org#CF-L06
+ip02.afreeworld.eu.org#CF-L07
+ip03.afreeworld.eu.org#CF-L08
+ip04.afreeworld.eu.org#CF-L09
+ip05.afreeworld.eu.org#CF-L10
+69.84.182.2:443#CF-L11
+160.79.104.4:443#CF-L12
+160.79.105.2:443#CF-L13
+198.62.62.5:443#CF-L14
+192.0.63.4:443#CF-L15
