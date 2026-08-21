@@ -3,11 +3,11 @@ portal.cloudflarepartners.com#CF-L02
 pages.cloudflare.com#CF-L03
 support.cloudflare.com#CF-L04
 workers.cloudflare.com#CF-L05
-ip01.dot8.dpdns.org#CF-L06
-ip02.dot8.dpdns.org#CF-L07
-ip03.dot8.dpdns.org#CF-L08
-ip04.dot8.dpdns.org#CF-L09
-ip05.dot8.dpdns.org#CF-L10
+ip01.jim2.de5.net#CF-L06
+ip02.jim2.de5.net#CF-L07
+ip03.jim2.de5.net#CF-L08
+ip04.jim2.de5.net#CF-L09
+ip05.jim2.de5.net#CF-L10
 104.20.59.6:443#CF-L11
 198.62.62.2:443#CF-L12
 216.24.57.2:443#CF-L13
